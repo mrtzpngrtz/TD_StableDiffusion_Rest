@@ -1,5 +1,5 @@
 # TD_StableDiffusion_Rest
-Interface for a stable diffusion in TouchDesigner with REST.
+Interface for stable diffusion in TouchDesigner with REST.
 
 Install the Stable Diffusion API Server from https://github.com/cantrell/stable-diffusion-api-server
 
